@@ -26,3 +26,18 @@ body{
     font-size: 21px;
     text-align: right;
 }
+.d3{
+    background-color: rgb(230, 151, 54);
+    border-radius: 11px;
+    box-shadow: 10px 10px 10px red;
+    margin: 130px;
+}
+.ol{
+    font-size: 25px;
+    font-family: 'Courier New', monospace;
+}
+.p3{
+    font-size: 28px;
+    text-align: right;
+    font-family: 'Courier New', monospace;
+}
