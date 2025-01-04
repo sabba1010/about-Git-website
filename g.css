@@ -76,11 +76,57 @@ input{
     background-color: blueviolet;
     color: aliceblue;
     transform: scale(1.1) ;
-    http://127.0.0.1:5500/g.html ;
+    
   }
   .dp:hover{
     background-color: blueviolet;
     color: aliceblue;
   }
+
+
+
+
+
+
+
+
+
+  h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  
+
+
+  /* Button Styling */
+  .login-btn {
+    background: none;
+    color: white;
+    padding: 12px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+
+  .login-btn:hover {
+    background-color: #141616;
+    box-shadow: 10px 8px 6px wheat;
+  }
+  
+
+    .login-btn {
+      font-size: 14px;
+      margin-left: 20px;
+      margin-top: 10px;
+    }
+
+
+
+    
 
   
