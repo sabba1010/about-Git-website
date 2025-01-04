@@ -2,3 +2,17 @@ body{
     background-color: #663300;
    
 }
+.div1{
+    background-color: antiquewhite;
+    margin-left: 80px;
+    margin-right: 80px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px black;
+}
+.dp{
+    font-size: 20px;
+    color: blueviolet;
+    text-align: center;
+  font-family: 'Courier New', monospace;
+
+}
