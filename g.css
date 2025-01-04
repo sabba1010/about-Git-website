@@ -41,3 +41,30 @@ body{
     text-align: right;
     font-family: 'Courier New', monospace;
 }
+.hudai{
+    background-image: url(images.jfif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 80px;
+    box-shadow: 10px 9px 6px bisque;
+}
+.fi{
+    font-size: 40px;
+}
+input{
+    margin-top: 10px;
+    background: none;
+    font-size: 18px;
+    box-shadow: 10px 10px 10px black;
+   
+}
+.hu{
+    text-align: center;
+    color: aliceblue;
+    font-size: 30px;
+}
+.gp{
+    text-align: end;
+    color: aliceblue;
+}
