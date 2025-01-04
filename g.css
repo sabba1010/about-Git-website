@@ -68,3 +68,19 @@ input{
     text-align: end;
     color: aliceblue;
 }
+
+.d3:hover {
+    background-color: green;
+  }
+  .div1:hover{
+    background-color: blueviolet;
+    color: aliceblue;
+    transform: scale(1.1) ;
+    http://127.0.0.1:5500/g.html ;
+  }
+  .dp:hover{
+    background-color: blueviolet;
+    color: aliceblue;
+  }
+
+  
